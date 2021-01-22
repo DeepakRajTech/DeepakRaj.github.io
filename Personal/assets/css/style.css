@@ -768,10 +768,10 @@ section .container {
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
-
+/*
 .resume-title-left, .resume-title-right{
 height:100vh;
-width:100%
+width:50%;
 position:relative;
 }
 
@@ -779,14 +779,14 @@ position:relative;
 .resume-title-left,.resume-title-right{
    height:100vh;
 
-
 }
-
+}
+*/
 .resume .resume-item {
-  padding:20px 20px;
-  margin-top: 2px;
+  padding:0 0 20px 20px;
+  margin-top: -2px;
   border-left: 2px solid rgba(255, 255, 255, 0.2);
-  position: relative;
+  position:relative;
 }
 
 .resume .resume-item h4 {
@@ -831,6 +831,10 @@ position:relative;
   background: #18d26e;
   border: 2px solid #18d26e;
 }
+
+
+
+
 
 /*--------------------------------------------------------------
 # Services
