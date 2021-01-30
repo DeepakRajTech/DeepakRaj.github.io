@@ -768,25 +768,19 @@ section .container {
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
-/*
-.resume-title-left, .resume-title-right{
-height:100vh;
-width:50%;
-position:relative;
+.resume .resume-title {
+  font-size: 26px;
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #fff;
 }
 
-@media screen and (min-width:768px){
-.resume-title-left,.resume-title-right{
-   height:100vh;
-
-}
-}
-*/
 .resume .resume-item {
-  padding:0 0 20px 20px;
+  padding: 0 0 20px 20px;
   margin-top: -2px;
   border-left: 2px solid rgba(255, 255, 255, 0.2);
-  position:relative;
+  position: relative;
 }
 
 .resume .resume-item h4 {
@@ -803,7 +797,7 @@ position:relative;
   font-size: 16px;
   background: rgba(255, 255, 255, 0.15);
   padding: 5px 15px;
-
+  display: inline-block;
   font-weight: 600;
   margin-bottom: 10px;
 }
@@ -831,10 +825,6 @@ position:relative;
   background: #18d26e;
   border: 2px solid #18d26e;
 }
-
-
-
-
 
 /*--------------------------------------------------------------
 # Services
