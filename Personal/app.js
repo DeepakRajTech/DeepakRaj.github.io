@@ -19,14 +19,14 @@ particlesJS('particles-js',
         "value": 80,
         "density": {
           "enable": true,
-          "value_area": 800
+          "value_area": 750
         }
       },
       "color": {
-        "value": "#ffffff"
+        "value": "#FFFFFF"
       },
       "shape": {
-        "type": "circle",
+        "type": ["star","circle","edge"],
         "stroke": {
           "width": 0,
           "color": "#000000"
@@ -65,11 +65,11 @@ particlesJS('particles-js',
         "distance": 150,
         "color": "#ffffff",
         "opacity": 0.4,
-        "width": 1
+        "width": 2
       },
       "move": {
         "enable": true,
-        "speed": 6,
+        "speed": 9,
         "direction": "none",
         "random": false,
         "straight": false,
