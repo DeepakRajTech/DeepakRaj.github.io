@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d478b99b-2df2-4a1c-af66-f48057709247" name="Default Changelist" comment="portfolio Project1 page modified v8" />
+    <list default="true" id="d478b99b-2df2-4a1c-af66-f48057709247" name="Default Changelist" comment="portfolio Project1 page modified v8">
+      <change beforePath="$PROJECT_DIR$/Personal/Project1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/Project1.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
