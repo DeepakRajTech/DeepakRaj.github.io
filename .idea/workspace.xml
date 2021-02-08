@@ -19,8 +19,58 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d478b99b-2df2-4a1c-af66-f48057709247" name="Default Changelist" comment="portfolio Project1 page modified v8">
+    <list default="true" id="d478b99b-2df2-4a1c-af66-f48057709247" name="Default Changelist" comment="Education page modified v8">
+      <change beforePath="$PROJECT_DIR$/Personal/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Personal/Project1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/Project1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/boxicons/css/boxicons.css" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/boxicons/css/boxicons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/boxicons/fonts/boxicons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/boxicons/fonts/boxicons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/counterup/counterup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/counterup/counterup.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/icofont/icofont.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/icofont/icofont.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/isotope-layout/isotope.pkgd.js" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/isotope-layout/isotope.pkgd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/isotope-layout/isotope.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/isotope-layout/isotope.pkgd.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/jquery/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/owl.carousel/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/owl.carousel/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/owl.carousel/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/owl.carousel/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/owl.carousel/assets/owl.carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/owl.carousel/assets/owl.carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/owl.carousel/assets/owl.carousel.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/owl.carousel/assets/owl.carousel.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/owl.carousel/assets/owl.theme.default.css" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/owl.carousel/assets/owl.theme.default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/owl.carousel/assets/owl.theme.default.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/owl.carousel/assets/owl.theme.default.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/owl.carousel/assets/owl.theme.green.css" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/owl.carousel/assets/owl.theme.green.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/owl.carousel/assets/owl.theme.green.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/owl.carousel/assets/owl.theme.green.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/owl.carousel/owl.carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/owl.carousel/owl.carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/owl.carousel/owl.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/owl.carousel/owl.carousel.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/remixicon/remixicon.css" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/remixicon/remixicon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/remixicon/remixicon.less" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/remixicon/remixicon.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/remixicon/remixicon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/remixicon/remixicon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/remixicon/remixicon.symbol.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/remixicon/remixicon.symbol.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/venobox/venobox.css" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/venobox/venobox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/venobox/venobox.js" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/venobox/venobox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/venobox/venobox.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/venobox/venobox.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/venobox/venobox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/venobox/venobox.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/vendor/waypoints/jquery.waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/vendor/waypoints/jquery.waypoints.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/particles.js" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/particles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/particles.js-master/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/particles.js-master/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/particles.js-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/particles.js-master/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/particles.js-master/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/particles.js-master/bower.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/particles.js-master/demo/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/particles.js-master/demo/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/particles.js-master/demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/particles.js-master/demo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/particles.js-master/demo/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/particles.js-master/demo/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/particles.js-master/demo/js/lib/stats.js" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/particles.js-master/demo/js/lib/stats.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/particles.js-master/demo/particles.json" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/particles.js-master/demo/particles.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/particles.js-master/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/particles.js-master/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/particles.js-master/particles.js" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/particles.js-master/particles.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612596143279</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Education page modified v8">
+      <created>1612782572412</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1612782572415</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -170,7 +227,8 @@
     <MESSAGE value="educaiton page modified v6" />
     <MESSAGE value="educaiton page modified v7" />
     <MESSAGE value="portfolio Project1 page modified v8" />
-    <option name="LAST_COMMIT_MESSAGE" value="portfolio Project1 page modified v8" />
+    <MESSAGE value="Education page modified v8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Education page modified v8" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2184" y="422" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611003418389">
