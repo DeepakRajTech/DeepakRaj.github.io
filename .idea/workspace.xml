@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d478b99b-2df2-4a1c-af66-f48057709247" name="Default Changelist" comment="Education page modified v8">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Personal/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Personal/Project1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/Project1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Personal/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/app.js" afterDir="false" />
@@ -265,5 +264,9 @@
       <screen x="1920" y="0" width="1024" height="1240" />
     </state>
     <state x="2211" y="481" key="git4idea.remote.GitConfigureRemotesDialog/0.40.1536.824/1920.0.1024.1240@1920.0.1024.1240" timestamp="1612782965390" />
+    <state x="2095" y="275" key="search.everywhere.popup" timestamp="1613120643208">
+      <screen x="1920" y="0" width="1024" height="1240" />
+    </state>
+    <state x="2095" y="275" key="search.everywhere.popup/0.40.1536.824/1920.0.1024.1240@1920.0.1024.1240" timestamp="1613120643208" />
   </component>
 </project>
