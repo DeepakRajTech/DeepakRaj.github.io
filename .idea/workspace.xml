@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d478b99b-2df2-4a1c-af66-f48057709247" name="Default Changelist" comment="Education page modified v8">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Personal/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Personal/Project1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/Project1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Personal/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/app.js" afterDir="false" />
@@ -71,6 +72,7 @@
       <change beforePath="$PROJECT_DIR$/Personal/particles.js-master/demo/particles.json" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/particles.js-master/demo/particles.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Personal/particles.js-master/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/particles.js-master/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Personal/particles.js-master/particles.js" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/particles.js-master/particles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +87,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Personal" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nCqnjRWOykblISQ06z6u0Q8k0q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -239,6 +241,10 @@
       <screen x="1920" y="0" width="1024" height="1240" />
     </state>
     <state x="2012" y="92" width="840" height="1056" key="DiffContextDialog/0.40.1536.824/1920.0.1024.1240@1920.0.1024.1240" timestamp="1612023984065" />
+    <state x="2212" y="375" key="FileChooserDialogImpl" timestamp="1612813234861">
+      <screen x="1920" y="0" width="1024" height="1240" />
+    </state>
+    <state x="2212" y="375" key="FileChooserDialogImpl/0.40.1536.824/1920.0.1024.1240@1920.0.1024.1240" timestamp="1612813234861" />
     <state x="2307" y="518" key="Github.ShareDialog" timestamp="1611257218188">
       <screen x="1920" y="0" width="1024" height="1240" />
     </state>
@@ -255,5 +261,9 @@
       <screen x="1920" y="0" width="1024" height="1240" />
     </state>
     <state x="2024" y="353" key="Vcs.Push.Dialog.v2/0.40.1536.824/1920.0.1024.1240@1920.0.1024.1240" timestamp="1612256018548" />
+    <state x="2211" y="481" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1612782965390">
+      <screen x="1920" y="0" width="1024" height="1240" />
+    </state>
+    <state x="2211" y="481" key="git4idea.remote.GitConfigureRemotesDialog/0.40.1536.824/1920.0.1024.1240@1920.0.1024.1240" timestamp="1612782965390" />
   </component>
 </project>
